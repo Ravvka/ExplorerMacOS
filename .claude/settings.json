@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__xcode-tools__GetTargetBuildSettings",
+      "mcp__xcode-tools__XcodeRead",
+      "mcp__xcode-tools__XcodeListTargets",
+      "mcp__xcode-tools__GetConsoleOutput",
+      "mcp__xcode-tools__XcodeGlob",
+      "mcp__xcode-tools__XcodeListSchemes",
+      "mcp__xcode-tools__XcodeListRunDestinations",
+      "mcp__xcode-tools__GetBuildLog",
+      "mcp__xcode-tools__GetFileCompilerFlags",
+      "mcp__xcode-tools__XcodeListNavigatorIssues",
+      "mcp__xcode-tools__XcodeListTestPlans",
+      "mcp__xcode-tools__StringCatalogRead",
+      "mcp__xcode-tools__StringCatalogContext"
+    ]
+  }
+}
